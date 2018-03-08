@@ -15,7 +15,7 @@ build:
     - script:
         name: Build
         code: |
-          npm production
+          yarn production
 deploy:
   steps:
     - gh-pages:
