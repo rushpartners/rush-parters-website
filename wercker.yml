@@ -18,9 +18,8 @@ build:
           yarn production
 deploy:
   steps:
-    - git-push:
-         gh_oauth: $RUSH_PARTNERS_GIT_TOKEN
-         gh_pages: true
-         gh_pages_domain: www.rushpartners.co.uk
-         basedir: build_production
-         branch: gh-pages
+    - eyedol/deploy-gh-pages@0.2.1:
+        gh_oauth: $RUSH_PARTNERS_GIT_TOKEN
+        domain: www.rushpartners.co.uk
+        basedir: build_production
+        branch: gh-pages
