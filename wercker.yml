@@ -18,8 +18,8 @@ build:
           yarn production
 deploy:
   steps:
-    - eyedol/deploy-gh-pages@0.2.1:
-        token: $RUSH_PARTNERS_GIT_TOKEN
-        domain: www.rushpartners.co.uk
-        basedir: build_production
-        branch: gh-pages
+    - nztomas/gh-pages@0.2.4:
+      token: $RUSH_PARTNERS_GIT_TOKEN
+      domain: www.rushpartners.co.uk
+      basedir: build_production
+      branch: gh-pages
