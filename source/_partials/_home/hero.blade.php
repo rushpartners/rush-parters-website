@@ -11,7 +11,7 @@
                 Rush are an innovative new company on a mission to change gambling for good. We believe that sports fans are the heart of the industry.
             </div>
             <div class="w-2/5 text-right hidden lg:inline-block">
-                <a href="" class="btn-cta">
+                <a class="btn-cta" href="#our-brands" rush-navbar-item>
                     Discover more @include('_partials._icons.chevron-right')
                 </a>
             </div>
