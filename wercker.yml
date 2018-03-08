@@ -19,7 +19,7 @@ build:
 deploy:
   steps:
     - eyedol/deploy-gh-pages@0.2.1:
-        gh_oauth: $RUSH_PARTNERS_GIT_TOKEN
+        token: $RUSH_PARTNERS_GIT_TOKEN
         domain: www.rushpartners.co.uk
         basedir: build_production
         branch: gh-pages
