@@ -1,0 +1,4 @@
+.gradient-red-orange {
+    background: config('colors.red');
+    background: linear-gradient(to right, config('colors.orange') 0%,config('colors.red-light') 25%, config('colors.red') 100%);
+}

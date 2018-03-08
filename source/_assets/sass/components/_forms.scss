@@ -1,0 +1,22 @@
+textarea {
+    resize: none;
+}
+
+input,
+textarea {
+    &:focus {
+        outline: none;
+    }
+}
+
+.form-control {
+    @apply .bg-grey .appearance-none .border-0 .w-full .py-6 .px-6 .text-grey-lighter;
+
+    &:hover {
+        @apply .bg-grey-light;
+    }
+}
+
+.form-contact-message {
+    height: 164px;
+}

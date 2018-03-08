@@ -1,0 +1,9 @@
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+@variants hover, focus {
+    .text-underline {
+        text-decoration: underline;
+    }
+}

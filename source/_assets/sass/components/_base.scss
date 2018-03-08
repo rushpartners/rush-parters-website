@@ -1,0 +1,29 @@
+body {
+    @apply .font-normal .text-grey-dark .leading-normal;
+}
+
+a {
+    text-decoration: none;
+    color: config('colors.red');
+
+    &.animate-anchor {
+        transition: transform .3s ease-out;
+
+        &:hover {
+            transform: translate(0, -5px);
+        }
+    }
+}
+
+svg {
+    vertical-align: middle;
+
+    &.rs-icon-linkedin {
+        position: relative;
+    }
+}
+
+.rs-about-icon {
+    @apply .flex .items-center .justify-center;
+    height: 9rem;
+}

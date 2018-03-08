@@ -1,0 +1,61 @@
+.rs-hero {
+    @apply .relative .pb-8;
+    background-size: cover;
+    height: auto;
+    overflow: hidden;
+
+    @screen sm {
+        overflow: hidden;
+        // height: auto;
+    }
+
+    @screen md {
+        // height: 850px;
+    }
+
+    @screen lg {
+        @apply .pb-0;
+        height: 850px;
+    }
+}
+
+.rs-hero-headline {
+    @apply .text-uppercase .font-avenir .relative .text-white .z-30;
+    margin-top: 8rem;
+    font-size: 6rem;
+    line-height: 1;
+
+    &:after {
+        content: attr(data-text);
+        @apply .absolute .opacity-10 .mt-0;
+        font-size: 15rem;
+        left: -5rem;
+        top: 0;
+        width: 2500px;
+    }
+
+    @screen sm {
+        font-size: 7rem;
+
+        &:after {
+            font-size: 12rem;
+        }
+    }
+
+    @screen md {
+        margin-top: 12rem;
+        font-size: 7rem;
+    }
+
+    @screen lg {
+        font-size: 9rem;
+    }
+}
+
+.rs-hero-mouse {
+    @apply .absolute;
+    bottom: 2rem;
+    left: 50%;
+    width: 22px;
+    margin-left: -11px;
+}

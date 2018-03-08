@@ -1,0 +1,13 @@
+@tailwind preflight;
+
+@import "components/font-faces";
+@import "components/base";
+@import "components/hero";
+@import "components/section";
+@import "components/buttons";
+@import "components/forms";
+
+@tailwind utilities;
+
+@import "utilities/text";
+@import "utilities/gradient";

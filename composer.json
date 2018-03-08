@@ -1,0 +1,13 @@
+{
+    "name": "rushpartners/rush-partners-website",
+    "type": "project",
+    "require": {
+        "tightenco/jigsaw": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "David Bonner",
+            "email": "534654+davidianbonner@users.noreply.github.com"
+        }
+    ]
+}

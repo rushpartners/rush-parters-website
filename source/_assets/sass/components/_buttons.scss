@@ -1,0 +1,22 @@
+.btn {
+    @apply .text-white .rounded-full .bg-red .text-center;
+}
+
+.btn-cta {
+    @extend .btn;
+    @apply .gradient-red-orange .py-0 .px-8 .text-uppercase .text-xl .inline-block .h-20;
+    box-shadow: 0 10px 70px 0 rgba(235, 118, 77, 0.5);
+    transition: transform .3s ease-out;
+    line-height: config('height.20');
+
+    .svg-icon {
+        @apply .relative .ml-3 .inline;
+        // transform: translate(0, 0);
+        top: -3px;
+    }
+
+    &:hover {
+        // box-shadow: 0 10px 70px 0 rgba(235, 118, 77, 0.5);
+        transform: translate(0, -5px);
+    }
+}
