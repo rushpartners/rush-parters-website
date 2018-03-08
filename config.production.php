@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'http://www.rushpartners.co.uk',
+    'baseUrl' => 'https://www.rushpartners.co.uk',
     'production' => true,
 ];
