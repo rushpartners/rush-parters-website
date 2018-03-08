@@ -9,7 +9,7 @@
         @include('_partials.logo')
     </li>
     <li class="hidden sm:flex items-center">
-        <a class="block text-white text-uppercase py-4 px-4 animate-anchor" href="https://rush-partners.workable.com/" rush-navbar-item>Careers</a>
+        <a class="block text-white text-uppercase py-4 px-4 animate-anchor" href="https://rush-partners.workable.com/" target="_blank">Careers</a>
     </li>
     <li class="hidden sm:flex items-center">
         <a class="block text-white text-uppercase py-4 px-4 animate-anchor" href="#contact-us" rush-navbar-item>Contact</a>
