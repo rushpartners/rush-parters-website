@@ -8,7 +8,7 @@
 
         <div class="w-full md:w-4/5 mx-auto relative z-40 flex mt-8 mb-16 sm:mb-0">
             <div class="text-xl text-white w-full md:w-4/5 lg:w-3/5 pr-0 sm:pr-8">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit ullamcorper tempus ipsum, mollis ultricies quam. Mauris ac accumsan nisl.
+                Rush are an innovative new company on a mission to change gambling for good. We believe that sports fans are the heart of the industry.
             </div>
             <div class="w-2/5 text-right hidden lg:inline-block">
                 <a href="" class="btn-cta">

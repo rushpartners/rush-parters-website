@@ -3,7 +3,7 @@
         <div class="rs-section-title" data-text="Our Brands">Our Brands</div>
         <div class="rs-section-body">
             <div class="w-full md:w-2/3 lg:w-1/2 mx-auto mt-8">
-                <p>Praesent libero sem, suscipit ac felis at, efficitur finibus sapien. Integer ut molestie erat. Duis non lacus ut odio fringilla congue. Proin vel volutpat sapien, vel tempor augue. Nunc nisl odio, facilisis non tortor a, bibendum ullamcorper turpis.</p>
+                <p>Rush current own 7 well respected and ground-breaking brands. All of which share the same goal – to disrupt a huge industry full of sleeping giants and share any success (and half our net profits) with the fans.</p>
             </div>
 
             <div class="w-full mx-auto mt-24">

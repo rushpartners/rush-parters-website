@@ -4,7 +4,8 @@
         <div class="rs-section-body">
             <h3 class="text-xl font-normal text-uppercase mb-2 mt-8">On a mission to revolutionize the sport betting industry</h3>
             <div class="w-full md:w-2/3 lg:w-1/2 mx-auto mt-4">
-                <p>Praesent libero sem, suscipit ac felis at, efficitur finibus sapien. Integer ut molestie erat. Duis non lacus ut odio fringilla congue. Proin vel volutpat sapien, vel tempor augue. Nunc nisl odio, facilisis non tortor a, bibendum ullamcorper turpis.</p>
+                <p>We believe that sports fans are the heart of the industry and should always be treated that way. By working closely with them and by sharing with the community, we are building a platform that changes the rules of the industry forever.</p>
+                <p>We're building it from the ground up, using the most innovative technologies in the world.</p>
             </div>
 
             <div class="flex flex-wrap justify-center items-center mt-24">
