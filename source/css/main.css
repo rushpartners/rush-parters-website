@@ -1,4 +1,4 @@
-/*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400);/*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
    ========================================================================== */
@@ -642,10 +642,12 @@ button,
   /* Safari, Android, iOS */
 }
 
-body {
+html {
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
   font-weight: 300;
   color: #8795a1;
   line-height: 1.5;
+  font-size: 1rem;
 }
 
 p {
@@ -837,7 +839,7 @@ svg.rs-icon-linkedin {
 .rs-section-light {
   background: none;
   background-color: #f6f6f6;
-  color: #606f7b;
+  color: #2e2b2d;
 }
 
 .rs-section-light .rs-section-title {
@@ -2797,7 +2799,7 @@ textarea:focus {
 }
 
 .font-sans {
-  font-family: Helvetica Neue, Helvetica, Arial, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, sans-serif;
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
 .font-serif {
@@ -6890,7 +6892,7 @@ textarea:focus {
   }
 
   .sm\:font-sans {
-    font-family: Helvetica Neue, Helvetica, Arial, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, sans-serif;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
   }
 
   .sm\:font-serif {
@@ -10954,7 +10956,7 @@ textarea:focus {
   }
 
   .md\:font-sans {
-    font-family: Helvetica Neue, Helvetica, Arial, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, sans-serif;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
   }
 
   .md\:font-serif {
@@ -15018,7 +15020,7 @@ textarea:focus {
   }
 
   .lg\:font-sans {
-    font-family: Helvetica Neue, Helvetica, Arial, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, sans-serif;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
   }
 
   .lg\:font-serif {
@@ -19082,7 +19084,7 @@ textarea:focus {
   }
 
   .xl\:font-sans {
-    font-family: Helvetica Neue, Helvetica, Arial, system-ui, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, sans-serif;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
   }
 
   .xl\:font-serif {

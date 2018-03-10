@@ -1,4 +1,4 @@
-<div id="our-brands" class="rs-section px-8 md:px-0">
+<div id="our-brands" class="rs-section rs-section-dark px-8 md:px-0">
     <div class="container mx-auto text-center">
         <div class="rs-section-title" data-text="Our Brands">Our Mission and Brands</div>
         <div class="rs-section-body">

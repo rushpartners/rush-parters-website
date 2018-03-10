@@ -36,7 +36,7 @@
                 </div>
             @endif
 
-            <div class="flex justify-start flex-wrap mt-24 text-left text-grey -mx-4">
+            <div class="flex justify-start flex-wrap mt-24 text-left text-grey-light -mx-4">
                 <div class="w-1/2 sm:w-1/3 md:w-1/5 px-4 mb-8 lg:mb-0">
                     <span class="text-white block">London</span>
                     2 Eastbourne Terrace<br />London<br />England<br />W2 6LG
