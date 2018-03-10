@@ -8,11 +8,11 @@
 
         <div class="w-full md:w-4/5 mx-auto relative z-40 flex mt-8 mb-16 sm:mb-0">
             <div class="text-xl text-white w-full md:w-4/5 lg:w-3/5 pr-0 sm:pr-8">
-                Rush are an innovative new company on a mission to change gambling for good. We believe that sports fans are the heart of the industry.
+                We belive in the power of Sports, the importance of the Fans and the thrill of the Game. We're on a mission to change the gambling industry, for good.
             </div>
             <div class="w-2/5 text-right hidden lg:inline-block">
                 <a class="btn-cta" href="#our-brands" rush-navbar-item>
-                    Discover more @include('_partials._icons.chevron-right')
+                    Find Out More @include('_partials._icons.chevron-right')
                 </a>
             </div>
         </div>

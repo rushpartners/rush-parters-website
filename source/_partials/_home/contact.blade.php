@@ -39,15 +39,15 @@
             <div class="flex justify-start flex-wrap mt-24 text-left text-grey -mx-4">
                 <div class="w-1/2 sm:w-1/3 md:w-1/5 px-4 mb-8 lg:mb-0">
                     <span class="text-white block">London</span>
-                    Wework Paddington<br />Eastbourne Terrace<br />London<br />England<br />W2 6LG
+                    2 Eastbourne Terrace<br />London<br />England<br />W2 6LG
                 </div>
                 <div class="w-1/2 sm:w-1/3 md:w-1/5 px-4 mb-8 lg:mb-0">
                     <span class="text-white block">Manchester</span>
-                    Wework Paddington<br />Eastbourne Terrace<br />London<br />England<br />W2 6LG
+                    No. 1 Spinning Fields<br />Quay St<br />Manchester<br />M3 3JE
                 </div>
                 <div class="w-1/2 sm:w-1/3 md:w-1/5 px-4 mb-8 lg:mb-0">
-                    <span class="text-white block">London</span>
-                    R{{ htmlentities('å') }}dhusgata 23<br />0158 Oslo<br />Norway
+                    <span class="text-white block">Oslo</span>
+                    R{!! Htmlentities('å') !!}dhusgata 23<br />0158 <br />Oslo<br />Norway
                 </div>
                 <div class="w-1/2 sm:w-1/3 md:w-1/5 px-4 mb-8 lg:mb-0">
                     <span class="text-white block">Stockholm</span>
