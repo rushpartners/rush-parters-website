@@ -55,7 +55,7 @@
                 </div>
                 <div class="w-1/2 sm:w-1/3 md:w-1/5 px-4 mb-8 lg:mb-0">
                     <span class="text-white block">Malta</span>
-                    Elija Zammit Street<br />Edge Water Complex<br />Floor 4, St Julians<br />STJ3150, Malta
+                    119, Triq Tas-Sliema<br />Gzira, GZR1635<br />Malta
                 </div>
             </div>
         </div>
