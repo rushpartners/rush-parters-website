@@ -9,7 +9,7 @@
             </div>
 
             <div class="w-full mx-auto mt-24">
-                <img src="/images/brands.png" alt="Rush Brands: OneBet, RedArmyBet, FansBet, Norskespill, FantasyBet" />
+                <img src="/images/brands.png" alt="Rush Brands: OneBet, RedArmyBet, FansBet, FantasyBet" />
             </div>
         </div>
     </div>

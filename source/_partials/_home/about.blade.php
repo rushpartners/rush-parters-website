@@ -24,21 +24,21 @@
                         @include('_partials._home._about-us.icon-growth')
                     </div>
                     <span class="text-uppercase text-xl text-black block">Rapid Growth</span>
-                    <span class="text-uppercase text-4xl text-orange font-avenir block">50+ Employees</span>
+                    <span class="text-uppercase text-4xl text-orange font-avenir block">30 Employees</span>
                 </div>
                 <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 mb-4 lg:mb-0">
                     <div class="rs-about-icon">
                         @include('_partials._home._about-us.icon-international')
                     </div>
                     <span class="text-uppercase text-xl text-black block">International team</span>
-                    <span class="text-uppercase text-4xl text-orange font-avenir block">12 nationalities</span>
+                    <span class="text-uppercase text-4xl text-orange font-avenir block">8 nationalities</span>
                 </div>
                 <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 mb-4 lg:mb-0">
                     <div class="rs-about-icon">
                         @include('_partials._home._about-us.icon-brands')
                     </div>
                     <span class="text-uppercase text-xl text-black block">Owned brands</span>
-                    <span class="text-uppercase text-4xl text-orange font-avenir block">7+</span>
+                    <span class="text-uppercase text-4xl text-orange font-avenir block">6</span>
                 </div>
             </div>
         </div>

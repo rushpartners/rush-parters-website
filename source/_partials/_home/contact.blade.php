@@ -37,23 +37,17 @@
             @endif
 
             <div class="flex justify-start flex-wrap mt-24 text-left text-grey-light -mx-4">
-                <div class="w-1/2 sm:w-1/3 md:w-1/5 px-4 mb-8 lg:mb-0">
-                    <span class="text-white block">London - Rush Partners</span>
-                    2 Eastbourne Terrace<br />London<br />England<br />W2 6LG<br />UK
-                </div>
-                <div class="w-1/2 sm:w-1/3 md:w-1/5 px-4 mb-8 lg:mb-0">
-                    <span class="text-white block">Manchester - Rush Partners</span>3 Parsonage
-                    <br />Third Floor, Office 3 &amp; 4<br />ParsonageChambers<br />Manchester<br />M3 2HW<br />UK
-                </div>
-                <div class="w-1/2 sm:w-1/3 md:w-1/5 px-4 mb-8 lg:mb-0">
+                <div class="w-1/3 sm:w-1/3 md:w-1/3 px-4 mb-8 lg:mb-0">
+
                     <span class="text-white block">Oslo</span>
                     R{!! Htmlentities('å') !!}dhusgata 23<br />0158 <br />Oslo<br />Norway
                 </div>
-                <div class="w-1/2 sm:w-1/3 md:w-1/5 px-4 mb-8 lg:mb-0">
+                <div class="w-1/3 sm:w-1/3 md:w-1/3 px-4 mb-8 lg:mb-0">
                     <span class="text-white block">Stockholm</span>
                     Gustav III:s Boulevard 42<br />169 73 Solna<br />Sweden
                 </div>
-                <div class="w-1/2 sm:w-1/3 md:w-1/5 px-4 mb-8 lg:mb-0">
+                <div class="w-1/3 sm:w-1/3 md:w-1/3 px-4 mb-8 lg:mb-0">
+
                     <span class="text-white block">Malta - Rush Gaming</span>
                     Level 3<br/>203 BMW Building<br/>Rue D'Argens<br/>Gzira<br/>GZR1368<br/>Malta<br/>
                 </div>
