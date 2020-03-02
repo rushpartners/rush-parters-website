@@ -15,6 +15,6 @@
         <a class="block text-white text-uppercase py-4 px-4 animate-anchor" href="#contact-us" rush-navbar-item>Contact</a>
     </li>
     <li class="hidden sm:flex items-center">
-        <a class="block text-white text-uppercase py-4 px-4 animate-anchor" href="/investor">Investor</a>
+        <a class="block text-white text-uppercase py-4 px-4 animate-anchor" href="/investor/index.html">Investor</a>
     </li>
 </ul>
