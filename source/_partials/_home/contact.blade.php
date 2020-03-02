@@ -36,11 +36,8 @@
                 </div>
             @endif
 
-<<<<<<< HEAD
             <div class="flex justify-start text-center items-center flex-wrap mt-24 text-left text-grey-light -mx-4">
-=======
-            <div class="flex justify-start flex-wrap mt-24 text-left text-grey-light -mx-4">
->>>>>>> master
+
                 <div class="w-1/3 sm:w-1/3 md:w-1/3 px-4 mb-8 lg:mb-0">
 
                     <span class="text-white block">Oslo</span>
