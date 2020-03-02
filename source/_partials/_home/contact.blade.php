@@ -32,11 +32,15 @@
                 </form>
             @else
                 <div class="w-full md:w-2/3 mx-auto mt-4">
-                    <p>Send us an email at <a href="mailto:{{ $page->contactEmail }}" class="text-white hover:text-underline"><strong>{{ $page->contactEmail }}</strong></a> or follow us on <a href="{{ $page->linkedInUrl }}" class="text-white hover:text-underline"><strong>LinkedIn</strong></a>.</p>
+                    <p>Send us an email at <a href="mailto:{{ $page->contactEmail }}" class="text-white hover:text-underline"><strong>{{ $page->contactEmail }}</strong></a>.</p>
                 </div>
             @endif
 
+<<<<<<< HEAD
+            <div class="flex justify-start text-center items-center flex-wrap mt-24 text-left text-grey-light -mx-4">
+=======
             <div class="flex justify-start flex-wrap mt-24 text-left text-grey-light -mx-4">
+>>>>>>> master
                 <div class="w-1/3 sm:w-1/3 md:w-1/3 px-4 mb-8 lg:mb-0">
 
                     <span class="text-white block">Oslo</span>
