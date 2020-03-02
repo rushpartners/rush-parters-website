@@ -6,12 +6,15 @@
         <a class="block text-white text-uppercase py-4 px-4 animate-anchor" href="#about-us" rush-navbar-item>About</a>
     </li>
     <li class="">
-        @include('_partials.logo')
+        <a href="/">@include('_partials.logo')</a>
     </li>
-    <li class="hidden sm:flex items-center">
+    <!-- <li class="hidden sm:flex items-center">
         <a class="block text-white text-uppercase py-4 px-4 animate-anchor" href="https://rush-partners.workable.com/" target="_blank">Careers</a>
-    </li>
+    </li> -->
     <li class="hidden sm:flex items-center">
         <a class="block text-white text-uppercase py-4 px-4 animate-anchor" href="#contact-us" rush-navbar-item>Contact</a>
+    </li>
+    <li class="hidden sm:flex items-center">
+        <a class="block text-white text-uppercase py-4 px-4 animate-anchor" href="/investor">Investor</a>
     </li>
 </ul>

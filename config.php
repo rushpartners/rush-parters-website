@@ -6,5 +6,5 @@ return [
     'collections' => [],
     'formEnabled' => false,
     'linkedInUrl' => 'https://www.linkedin.com/company/rush-partners-ltd',
-    'contactEmail' => 'hello@rushpartners.co.uk',
+    'contactEmail' => 'contact@rushpartners.co.uk',
 ];
