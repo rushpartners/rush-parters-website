@@ -38,14 +38,16 @@
 
             <div class="flex justify-start flex-wrap mt-24 text-left text-grey-light -mx-4">
                 <div class="w-1/3 sm:w-1/3 md:w-1/3 px-4 mb-8 lg:mb-0">
+
                     <span class="text-white block">Oslo</span>
                     R{!! Htmlentities('å') !!}dhusgata 23<br />0158 <br />Oslo<br />Norway
                 </div>
                 <div class="w-1/3 sm:w-1/3 md:w-1/3 px-4 mb-8 lg:mb-0">
                     <span class="text-white block">Stockholm</span>
-                    Kaplansbacken 2<br />112 24 Stockholm,<br />Sweden
+                    Gustav III:s Boulevard 42<br />169 73 Solna<br />Sweden
                 </div>
                 <div class="w-1/3 sm:w-1/3 md:w-1/3 px-4 mb-8 lg:mb-0">
+
                     <span class="text-white block">Malta - Rush Gaming</span>
                     Level 3<br/>203 BMW Building<br/>Rue D'Argens<br/>Gzira<br/>GZR1368<br/>Malta<br/>
                 </div>
