@@ -22,7 +22,7 @@
             </div>
 
             <div class="flex flex-wrap justify-center items-center mt-24">
-                <div class="sm:w-1/2 md:w-1/2 lg:w-1/4 mb-4 lg:mb-0">
+                <div class="m-4 sm:w-1/2 md:w-1/2 lg:w-1/4 mb-4 lg:mb-0">
                     <span class="text-uppercase text-xl text-black block text-orange font-avenir">
                         On a mission. As a team.
                     </span>
@@ -30,7 +30,7 @@
                         We believe in working as a team towards a common goal. Collaboration, openness, inclusivity, transparency are just some of the values we hold highly.
                     </span>
                 </div>
-                <div class="sm:w-1/2 md:w-1/2 lg:w-1/4 mb-4 lg:mb-0">
+                <div class="m-4 sm:w-1/2 md:w-1/2 lg:w-1/4 mb-4 lg:mb-0">
                     <span class="text-uppercase text-xl text-black block text-orange font-avenir">
                         Your growth. Our growth.
                     </span>
@@ -39,9 +39,9 @@
                     </span>
                 </div>
             </div>
-            
+                        
             <div class="flex flex-wrap justify-center items-center mt-24">
-                <div class="sm:w-1/2 md:w-1/2 lg:w-1/4 mb-4 lg:mb-0">
+                <div class="m-4 sm:w-1/2 md:w-1/2 lg:w-1/4 mb-4 lg:mb-0">
                     <span class="text-uppercase text-xl text-black block text-orange font-avenir">
                         Engineering and Design. Together.
                     </span>
@@ -49,7 +49,7 @@
                         We believe the best products are the ones that put the user at the forefront. Whether that's a developer using an API or a sports fan picking their team.
                     </span>
                 </div>
-                <div class="sm:w-1/2 md:w-1/2 lg:w-1/4 mb-4 lg:mb-0">
+                <div class="m-4 sm:w-1/2 md:w-1/2 lg:w-1/4 mb-4 lg:mb-0">
                     <span class="text-uppercase text-xl text-black block text-orange font-avenir">
                         Make great stuff. Enjoy the process.
                     </span>
@@ -58,7 +58,68 @@
                     </span>
                 </div>
             </div>
-            
+
+            <div class="w-full md:w-2/3 mx-auto mt-4 text-left">
+                <h1 class="text-black block">
+                    Customer Experience Specialist (German Speaking)
+                    <br/>
+                    at Rush Gaming
+                </h1>
+                <br/>
+                <span class="text-uppercase text-xl text-black block text-orange font-avenir">
+                    Description
+                </span>
+                <span class="text-black block">
+                    The Customer Experience Specialist (German Speaking) will primarily be responsible for taking incoming contacts via live chat & emails whilst also dealing with escalations from other departments. You will be given opportunities to improve the customer journey and your voice will be heard when suggesting improvements. The role will come with a degree of autonomy, flexibility and as a result, the individual must come with a high degree of discipline and independence. 
+                </span>
+                <br/>
+                <span class="text-uppercase text-xl text-black block text-orange font-avenir">
+                    Key Responsibilities:
+                </span>
+                <ul>
+                    <li>Respond promptly and effectively to incoming customer inquiries through various channels including live chat, Social Media and email;</li>
+                    <li>Build & develop customer relationships;</li>
+                    <li>Support the implementation of new products, processes, and policies;</li>
+                    <li>Achieve a high level of the first-time resolution for all customer contacts;</li>
+                    <li>Respond and action requests from the Management team;</li>
+                    <li>Speak on behalf of customers by providing useful feedback on their experiences;</li>
+                    <li>Help to resolve customer queries;</li>
+                    <li>Helping with translations;</li>
+                    <li>Monitoring and participating in forums and review sites;</li>
+                    <li>Various other tasks.</li>
+                </ul>
+                <br/>
+                <span class="text-uppercase text-xl text-black block text-orange font-avenir">
+                    Candidate Background:
+                </span>
+                <ul>
+                    <li>An understanding of the gambling industry and the customers’ expectations;</li>
+                    <li>Interested in developing knowledge and skills in the industry;</li>
+                    <li>Compassionate and empathetic;</li>
+                    <li>Customer-focused.</li>
+                </ul>
+                <br/>
+                <span class="text-uppercase text-xl text-black block text-orange font-avenir">
+                    Requirements
+                </span>
+                <ul>
+                    <li>Excellent analytical skills, interpersonal and problem-solving skills;</li>
+                    <li>Ability to work cross-functionally with other teams within the operations, namely CRM, VIP, Payments, and Compliance;</li>
+                    <li>Fluent in both German and English;</li>
+                    <li>Minimum 1-year experience working in the gambling industry;</li>
+                    <li>Awareness of regulatory guidelines for MGA and UK licenses;</li>
+                    <li>Able to work hours to suit the evolving business need.</li>
+                </ul>
+                <br/>
+                <span class="text-uppercase text-xl text-black block text-orange font-avenir">
+                    Benefits
+                </span>
+                <ul>
+                    <li>International health care plan</li>
+                    <li>Modern and open plan office</li>
+                    <li>Flexible working hours</li>
+                </ul>
+            </div>
             <div class="flex flex-wrap justify-center items-center mt-24">
                 <script type="text/javascript" src="https://form.jotform.com/jsform/201333477258355"></script>
             </div>
