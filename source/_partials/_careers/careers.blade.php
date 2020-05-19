@@ -53,7 +53,9 @@
 
             <div class="w-full md:w-2/3 mx-auto text-left mt-24">
                 <h1 class="text-black block">
-                    Customer Experience Specialist (German, English or Finnish Speaking)
+                    Customer Experience Specialist
+                    <br/>
+                    (German, English or Finnish Speaking)
                     <br/>
                     at Rush Gaming, Malta.
                 </h1>
