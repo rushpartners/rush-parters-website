@@ -55,7 +55,7 @@
                 <h1 class="text-black block">
                     Customer Experience Specialist
                     <br/>
-                    (German, English or Finnish Speaking)
+                    (German or English Speaking)
                     <br/>
                     at Rush Gaming, Malta.
                 </h1>
@@ -64,7 +64,7 @@
                     Description
                 </span>
                 <span class="text-black block">
-                    The Customer Experience Specialist (English, German or Finnish) will primarily be responsible for taking incoming contacts via live chat & emails whilst also dealing with escalations from other departments. You will be given opportunities to improve the customer journey and your voice will be heard when suggesting improvements. The role will come with a degree of autonomy, flexibility and as a result, the individual must come with a high degree of discipline and independence. 
+                    The Customer Experience Specialist (English or German) will primarily be responsible for taking incoming contacts via live chat & emails whilst also dealing with escalations from other departments. You will be given opportunities to improve the customer journey and your voice will be heard when suggesting improvements. The role will come with a degree of autonomy, flexibility and as a result, the individual must come with a high degree of discipline and independence.
                 </span>
                 <br/>
                 <span class="text-uppercase text-xl text-black block text-orange font-avenir">
@@ -99,7 +99,7 @@
                 <ul>
                     <li>Excellent analytical skills, interpersonal and problem-solving skills;</li>
                     <li>Ability to work cross-functionally with other teams within the operations, namely CRM, VIP, Payments, and Compliance;</li>
-                    <li>Fluent in English, German or Finnish;</li>
+                    <li>Fluent in English or German;</li>
                     <li>Minimum 1-year experience working in the gambling industry;</li>
                     <li>Awareness of regulatory guidelines for MGA and UK licenses;</li>
                     <li>Able to work hours to suit the evolving business need.</li>
