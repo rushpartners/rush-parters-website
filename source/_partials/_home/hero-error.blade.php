@@ -4,7 +4,7 @@
             @include('_partials.navbar')
         </div>
 
-        <h2 class="rs-hero-headline" data-text="Feel the Rush">Feel the Rush</h2>
+        <h2 class="rs-hero-headline" data-text="Not Found">Not Found</h2>
         <div class="w-full md:w-4/5 mx-auto relative z-40 flex mt-8 mb-16 sm:mb-0">
             <div class="text-xl text-white w-full md:w-4/5 lg:w-3/5 pr-0 sm:pr-8">
                 <h2>The page you are looking for <br />does not exist</h2>
