@@ -15,14 +15,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.26.13",
     "browser-sync-webpack-plugin": "^2.0.1",
     "cross-env": "^3.2.3",
     "escape-html": "^1.0.3",
     "laravel-mix": "^4.1.4",
     "less": "^2.7.2",
     "less-loader": "^4.0.5",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.20",
     "mousetrap": "^1.6.1",
     "node-cmd": "^3.0.0",
     "normalize.css": "^7.0.0",
@@ -34,8 +34,8 @@
     "stylefmt": "^6.0.0",
     "tailwindcss": "^0.4.2",
     "vue": "^2.5.2",
-    "webpack-watch": "^0.2.0",
     "vue-template-compiler": "^2.6.10",
+    "webpack-watch": "^0.2.0",
     "yargs": "^10.0.3"
   },
   "dependencies": {
